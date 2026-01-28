@@ -69,3 +69,4 @@ Data cleaning is critical before analysis
 Median & IQR are more reliable than mean when outliers exist
 Pivot Tables simplify complex analysis
 Visual storytelling improves business decision-making
+<img width="1103" height="622" alt="image" src="https://github.com/user-attachments/assets/a70c783f-387f-4ac5-b9e6-d4953b8ad160" />
